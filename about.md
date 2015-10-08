@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Michael Simpson is an antidisciplinary hacker/artist/musician from the Boston area that uses the computer as an active participant throughout all stages of his creative process. He is fascinated by genetic algorithms, natural language processing, biomimetics, and synthesizing these to create software tools for designers. After studying Finance at Boston University and working in quantitative analysis, he decided to leave that world to pursue his creative interests. Michael is the Digital Design and Rapid Fabrication Specialist at a jewelry design and manufacturing company where he is in charge of implementing software and hardware solutions to support the company’s design and fabrication process.
