@@ -1,8 +1,8 @@
 # Site settings
 title: Michael's SFPC Blog
-email: your-email@domain.com
+email: mgs@mgsarch.com
 description: > # this means to ignore newlines until "baseurl:"
-    This blog will document my time at the SFPC during Fall 2015.
+    This is a blog for my explorations into computation.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mgs.github.io" # the base hostname & protocol for your site
 twitter_username: ArtfulDeleuzian

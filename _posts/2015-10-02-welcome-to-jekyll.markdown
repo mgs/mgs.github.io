@@ -5,7 +5,7 @@ date:   2015-10-02 17:54:59
 categories: Deleuze SFPC
 ---
 !['Decoy Gang War Victim'](https://raw.githubusercontent.com/mgs/mgs.github.io/master/_posts/images/IronFilingShowingMagneticField.jpg)
-*Deleuzian Warfare*
+Deleuzian Warfare
 Michael Simpson
 October 2nd, 2015
 
@@ -20,5 +20,5 @@ But, then what is art in this context? Art is a line of flight, a way for radica
 A prime example of this sort of Deleuzian Weapon might be the photograph by Chicano artist collective, Asco, titled “Decoy Gang War Victim”. The photograph depicts a man lying in the street, supposedly dead, supposedly a result of the rampant gang violence that had become so prevalent in Oakland, California during the early 1970s. The photograph was actually staged but the image was so convincing and disturbing that news organizations reported the photograph as factual news. The viral response this evoked led to public outcry and response to something that had remained under the radar despite its seriousness. The artwork itself became a magnet in the grid of forces, disrupting control systems and generally shifting an entire  microcosm’s trajectory. Through their artwork, Asco evaded mechanisms of control and revealed something beneath the fold. These are the weapons Deleuze is encouraging us to find.
 
 ![Iron Filings Showing Magnetic Field](https://raw.githubusercontent.com/mgs/mgs.github.io/master/_posts/images/DecoyGangWarVictim.jpg)
-'<i>Decoy Gang War Victim</i>'
+<i>Decoy Gang War Victim</i>
 Asco
